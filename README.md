@@ -33,6 +33,7 @@ Now on Thirdweb go to code tab, install smart contract into the main app
 Use the third web sdk documentation, wrap the app inside thirdweb component
 npm install @thirdweb-dev/react @thirdweb-dev/sdk ethers
 
+```
 npm i react-spinners //for loading effect
 
 npm i react-countdown // for timer
@@ -42,3 +43,4 @@ add toaster at highest level
 
 
 npm i react-fast-marquee
+```
